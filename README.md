@@ -35,8 +35,8 @@ WIP
 * ケーススタディ1: Java (Netty)
 * ケーススタディ2: Go (netpoller)
 * mio/tokio
-** Poller
-** HashWheelTimer
+    * Poller
+    * HashWheelTimer
 * ケーススタディ3: hyper (Rust)
 * (コラム) ファイルI/O: Posix AIO/Linux AIO
 
